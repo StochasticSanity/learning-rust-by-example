@@ -8,4 +8,4 @@ This is a repository of the code I wrote/edited while learning the rust language
 
 ## Progress: 
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/37)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/46)
