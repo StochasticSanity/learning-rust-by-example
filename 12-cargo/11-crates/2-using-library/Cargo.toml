@@ -1,0 +1,7 @@
+[package]
+name = "using_library"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+creating_library = {path = "../1-creating-library"}
