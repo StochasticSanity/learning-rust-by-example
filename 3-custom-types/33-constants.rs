@@ -16,6 +16,6 @@ fn main() {
     println!("{} is {}", n, if is_big(n) { "big" } else { "small" });
 
     // Error! Cannot modify a `const`.
-    THRESHOLD = 5;
+    // THRESHOLD = 5;
     // FIXME ^ Comment out this line
 }
